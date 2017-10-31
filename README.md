@@ -46,3 +46,5 @@ Study guide for Exam #2
   * The 3 events fired from dragging
   * Know there is no special HTML setting to receive drops
   * Know the 4 events fired from dropping
+  
+  ## Anything from Chapters 9, 10, and 11 (along with coding examples and anything else we covered) is fair game 
