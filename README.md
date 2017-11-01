@@ -6,14 +6,29 @@ Study guide for Exam #2
   * What is it?
   * How is it represented?
   * Convert from an HTML page to DOM
+     - Be able to draw tree diagram
   * Know that the DOM is what JavaScript manipulates how we get results to browser
   * Know how to access data from elements in the DOM
+     - document.getElementById("Id")
   * Know that you can create nodes in the DOM
   * Know about appendChild()
 
 * Manipulating the DOM
   * getElementById()
+      -name (array)
+      -class (array)  
   * dot notation to access properties
+      -Mario.Image.src
+      -"How to find the property of...
+      - var car = {
+            make: "Audi";
+            model: "A4";
+            year: 2005;
+            getCar: function(){
+            }
+         }
+        - car.model to get the 
+        - car.getCar to start function
 * JavaScript objects
   * Identify a JavaScript object
   * Know how to access property values
